@@ -10,8 +10,8 @@ Welcome to my GitHub! I’m William Nicolás Sotaquira Fonnegra — a **Full Sta
 
 ## 🚀 Favorite Projects
 
-- [Nominapp](#) – Payroll and HR solutions.
-- [Lanah Web Page](#) – Modern web presence for Lanah.
+- [Nominapp](https://github.com/LilMasaX/Nominapp-react.js-next.js) – Payroll and HR solutions.
+- [Lanah Web Page](https://github.com/LilMasaX/lanah-web-page) – Modern web presence for Lanah.
 - [e-platform](https://github.com/e-lumeholding/e-platform) – Scalable online platform.
 - [prueba-tecnica-imix](https://github.com/LilMasaX/prueba-tecnica-imix) – Technical challenge solutions.
 
